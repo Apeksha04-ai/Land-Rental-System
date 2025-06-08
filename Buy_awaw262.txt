@@ -1,0 +1,15 @@
+
+          +------------------------------------------------------------------+
+          +     Techno Property Nepal : Rental Invoice of customer
+          +   
+          +   Customer Name : awaw
+          +    
+          +   Contact No   :  9876543210      Date : 2024-04-28 21:38:08.100933
+          +--------------------------------------------------------------------+
+          | Kitta No                |  115 
+          | Location                |  Palpa
+          | Direction               |  South Faced 
+          | Total Anna              |  5
+          | Duration                |  1 Month
+          | Price                   |   Rs.60000 
+          +----------------------------------------------------------------------+

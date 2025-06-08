@@ -1,0 +1,17 @@
+
+                +-------------------------------------------------------------------------------+
+                    Techno Property Nepal : Return Invoice of Customer
+
+                    customer Name : qpqp                 Return Date and Time: 2024-04-28 21:38:23
+                +--------------------------------------------------------------------------------+
+                | Kitta No                        |    113
+                | Location                        |    Madhyapur
+                | Direction                       |    North
+                | Area of Land (anna)             |    6
+                | Duration of Rent                |    1 months
+                | Price of the Land (per month)   |    Rs.55000
+                | Exceeded Period                 |    1 months
+                | Fine                            |     Rs.1000
+                ----------------------------------------------------------------------------------+
+                | Total Amount                    |     Rs.56000                          
+                +----------------------------------------------------------------------------------+
